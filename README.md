@@ -10,7 +10,7 @@ $ python main.py
 Linux Distros:
 $ python main.py
 
-## Controls
+### Controls
 
 | Action | Key |
 |------|------|
